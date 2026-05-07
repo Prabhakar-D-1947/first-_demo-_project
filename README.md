@@ -1,3 +1,3 @@
 # first-_demo-_project
- Hello, this is is the my demo project
+ Hello, this is the first my demo project
 Author- Prabhakar Dwivedi
